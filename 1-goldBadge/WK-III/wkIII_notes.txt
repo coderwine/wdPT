@@ -1,0 +1,20 @@
+Folder/File Structure for Students WK III
+
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+            - Challenges
+            - Notes
+                - arrays.js
+                - objects.js
+        - projects  
+
+
+RESOURCES:
+    Arrays:
+        - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+    Array Mehtods:
+        - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods

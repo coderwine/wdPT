@@ -1,0 +1,118 @@
+<!-- *
+! FOLDER STRUCTURE:
+    wd<CURRENT CLASS>
+        - 0-day01 
+        - 1-jsFundamentals
+        - inClass_Notes
+            - HTML Lesson
+                - assets
+            
+-->
+
+<!-- !+tab to generate boilerplate -->
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- ? What does the head of our HTML doc do for us?
+    - Holds metadata / information we don't see
+        - links, viewport info, document title, etc    
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- * Added * 
+    ? We will be importing resources into our HTML doc so that we can access what they offer.  In our case, we will have a font and our CSS file. 
+    ? Let's test to make sure that our CSS is connected.  Open up this HTML using LiveServer.
+    -->
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <link ref='text/css' rel="stylesheet" href="style.css" />
+    <!-- * * -->
+</head>
+
+<body>
+    <!-- ? Lets start a small blog page -->
+    <header>
+        <!-- The <header> element represents a container for introductory content or a set of navigational links -->
+        
+        <h1>Music Blog</h1>
+
+        <!-- emmet: nav>ul>li*4 -->
+        <nav>
+            <ul>
+                <li><span>Home</span></li>
+                <li><a href="#"></a>Get Started</li>
+                <li><a href="#"></a>Photos</li>
+                <li><a href="#"></a>Forum</li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- ? We're going to frame an area where we could possibly have our blogs. -->
+    
+    <section>
+        <!-- The <section> tag defines a section in a document and has a default value of a block display.  Think of this as an important "div". -->
+        <h2>Welcome</h2>
+        <main>
+            <!-- ? The <main> tag specifies the main content of a document.  There must not be more than one <main> element in a document.  The <main> element must NOT be a descendant of an <article>, <aside>, <footer>, <header>, or <nav> element. 
+                - Specifies the main content.
+                - Can only be one.
+                - cannot be a descendant (child) of:
+                    - header
+                    - nav
+                    - article
+                    - aside
+                    - footer                        
+            -->
+
+            <article>
+                <!-- The <article> tag specifies independent, self-contained content.  -->
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ex voluptates cum quam eaque placeat suscipit fugit voluptatum tempora reiciendis. Porro corrupti deserunt nemo repellendus quo, vel harum ea facere!
+                Voluptatem consectetur asperiores inventore ut aperiam omnis, quae expedita iure, tenetur sequi similique dolor dolorem quo commodi dicta ipsum quas voluptate ratione, optio ea. Provident dignissimos voluptatem facilis perferendis laudantium.
+                Non sit illo temporibus itaque rem? Nisi culpa tempore voluptatum voluptas? Tenetur expedita, rerum cum nobis ab a, repellendus tempore earum voluptatibus nemo, odio ad dolorem! Odio, molestias possimus. Exercitationem?</p>
+
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem dolore, veniam quibusdam impedit repudiandae mollitia laborum tenetur iste architecto itaque voluptatem cumque unde esse, non voluptas praesentium iusto maiores illo!
+                Nisi cupiditate rem adipisci facilis autem ea totam, dignissimos, ipsum sint doloremque alias, molestias vel nobis corporis eius! Quasi consequatur delectus quas, illum voluptatibus aut minima laboriosam et iure enim?
+                Minus nostrum, velit animi porro provident aut eum vero ducimus nisi. Quasi asperiores est ratione facilis eaque, dolore veritatis distinctio libero vitae veniam? Nostrum magni autem, quisquam atque aut at!
+                Incidunt nihil asperiores, inventore amet nostrum modi maxime? Ipsam sapiente saepe, aut tempore voluptate neque, nulla illum quisquam eaque corrupti expedita recusandae a nihil soluta aliquam mollitia cupiditate officiis commodi.
+                Accusantium voluptas aliquam vitae officia dolor eligendi magni corporis ut rem quod eum at deleniti praesentium minus repellat voluptates natus velit aspernatur, aliquid laboriosam reiciendis. Commodi laudantium doloremque recusandae corrupti.</p>
+
+                <!-- ? We had a bit to say:  How about we minimize article so that it's a bit easier to work with? -->
+            </article>
+
+            <aside>
+                <!-- The <aside> tag defines some content aside from the content it is placed in or indirectly related to the surrounding content. -->
+                
+                <h2>Favorite Albums</h2>
+
+                <a target="_blank" href="./assets/PinkFloyd.jpg"><img src="./assets/PinkFloyd.jpg"  alt="Division Bell - Pink Floyd"></a>
+                
+                <!-- a:blank*3>img -->
+                <a target="_blank" href="./assets/inYourHonor.jpg"><img src="./assets/inYourHonor.jpg"  alt="In Your Honor - Foo Fighters"></a>
+                <a target="_blank" href="./assets/BrokenBells_Amoeba.jpg"><img src="./assets/BrokenBells_Amoeba.jpg" alt="Amoeba - Broken Bells"></a>
+                <a target="_blank" href="./assets/TVotR_seeds.jpg"><img src="./assets/TVotR_seeds.jpg" alt="Seeds - TV on the Radio"></a>
+   
+            </aside>
+        </main>
+    </section>
+
+    <!-- ? The <footer> tag defines a footer for a document or section.
+        Typically contains:
+            - authorship info
+            - copyright info
+            - contact info
+            - sitemap
+            - back to top links
+            - related documents
+         -->
+    <footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt praesentium nobis dolore fugit amet, quas porro nisi ipsum aliquid quam magni maxime quos veniam vitae voluptates quod est quibusdam asperiores! &copy;2021</p>
+    </footer>
+
+    <!-- ! show w3schools list of elements: https://www.w3schools.com/tags/tag_aside.asp -->
+
+    <!-- ? Lets style this up a bit... -->
+
+</body>
+</html>

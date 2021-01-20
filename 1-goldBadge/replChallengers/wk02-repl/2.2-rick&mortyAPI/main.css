@@ -1,0 +1,20 @@
+#imageOne {
+    border-radius: 25% 10%;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+  }
+  
+  #imageTwo {
+    border-radius: 10% 25%;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }

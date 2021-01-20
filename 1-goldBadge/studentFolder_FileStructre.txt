@@ -1,0 +1,24 @@
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+                - assets
+                index.html
+                styles.css
+            - Challenges
+                01.longestName.js
+                02.types.js
+                03.fizzBuzz.js
+                04.forLoops.js
+                05.forOfLoops.js
+                06.forInLoops.js
+            - Notes
+                - literals.js
+                - hoisting.js
+                - scope.js
+                - functions.js
+                - parameters.js
+                - arrowFunctions.js
+        -projects
+            - staticLayout

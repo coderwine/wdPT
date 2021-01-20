@@ -1,0 +1,13 @@
+Folder/File Structure for Students
+
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+                - assets
+                index.html
+                styles.css
+            - Challenges
+                01.longestName.js
+                02.types.js

@@ -1,0 +1,36 @@
+Folder/File Structure for Students WK II
+
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+            - Challenges
+                03.fizzBuzz.js
+                04.forLoops.js
+                05.forOfLoops.js
+                06.forInLoops.js
+            - Notes
+                - literals.js
+                - hoisting.js
+                - scope.js
+                - functions.js
+                - parameters.js
+                - arrowFunctions.js
+        - projects  
+            - staticLayout
+
+
+RESOURCES:
+02.01 -----------
+    - OBJECTS: 
+        - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+        - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+
+02.01 -----------
+    - LITERALS: 
+        -https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#literals
+    - HOISTING:
+        - https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+    - SCOPE:
+        - https://developer.mozilla.org/en-US/docs/Glossary/SCOPE
