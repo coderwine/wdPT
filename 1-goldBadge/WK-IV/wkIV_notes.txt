@@ -1,0 +1,25 @@
+Folder/File Structure for Students WK IV
+
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+            - Challenges
+            - Notes
+                - DOM
+                    - assets
+                    - index.HTML
+                    - script.js
+                    - styles.css
+                - API
+                    - assets
+                    - index.HTML
+                    - script.js
+                    - styles.css
+
+        - projects  
+
+
+
+RESOURCES:

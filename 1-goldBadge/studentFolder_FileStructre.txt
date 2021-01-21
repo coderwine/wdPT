@@ -20,5 +20,12 @@ wd<CURRENT CLASS>
                 - functions.js
                 - parameters.js
                 - arrowFunctions.js
+                - arrays.js
+                - objects.js
+                - DOM (folder)
+                    - assets
+                    index.HTML
+                    script.js
+                    styles.css  
         -projects
             - staticLayout

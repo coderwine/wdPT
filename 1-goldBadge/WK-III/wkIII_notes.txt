@@ -18,3 +18,9 @@ RESOURCES:
 
     Array Mehtods:
         - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods
+
+    Objects:
+        - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Objects
+
+    JSON:
+        - https://jsonformatter.org/
