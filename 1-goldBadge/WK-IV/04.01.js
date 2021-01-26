@@ -1,5 +1,5 @@
 /*
-    - Assign API Project #1
+!   - Assign API Project #1
     - Whiteboarding
 
     LAB TIME
@@ -11,6 +11,22 @@
             - studying/practicing for Whiteboard Assessments 
                 - 4 practice challenges below
                     - break into small groups (divide challenges)
+*/
+
+/*
+* ****************
+! FOLDER/FILE STRUCTURE
+* ****************
+    wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+*           - Challenges
+!               - 07.preWhiteboard.js
+            - Notes
+*        - Projects
+!           - APIprojectOne
 */
 
 /*

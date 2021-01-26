@@ -6,19 +6,16 @@ wd<CURRENT CLASS>
         - inClass_Notes (REPO)
             - HTML Lesson
             - Challenges
+                - 07.preWhiteboard.js
             - Notes
                 - DOM
-                    - assets
-                    - index.HTML
-                    - script.js
-                    - styles.css
-                - API
-                    - assets
-                    - index.HTML
-                    - script.js
-                    - styles.css
-
-        - projects  
+                    - ronSwanson (folder)
+                        - assets (folder)
+                        - index.HTML
+                        - script.js
+                        - styles.css
+        - projects 
+            - APIprojectOne (folder) 
 
 
 

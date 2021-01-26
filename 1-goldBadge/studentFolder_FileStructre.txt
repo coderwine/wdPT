@@ -2,18 +2,19 @@ wd<CURRENT CLASS>
         - 0-day01 (prework)
         - 1-jsFundamentals (module work)
         - inClass_Notes (REPO)
-            - HTML Lesson
-                - assets
+            - HTML Lesson (folder)
+                - assets (folder)
                 index.html
                 styles.css
-            - Challenges
-                01.longestName.js
-                02.types.js
-                03.fizzBuzz.js
-                04.forLoops.js
-                05.forOfLoops.js
-                06.forInLoops.js
-            - Notes
+            - Challenges (folder)
+                - 01.longestName.js
+                - 02.types.js
+                - 03.fizzBuzz.js
+                - 04.forLoops.js
+                - 05.forOfLoops.js
+                - 06.forInLoops.js
+                - 07.preWhiteboard.js
+            - Notes (folder)
                 - literals.js
                 - hoisting.js
                 - scope.js
@@ -23,9 +24,18 @@ wd<CURRENT CLASS>
                 - arrays.js
                 - objects.js
                 - DOM (folder)
-                    - assets
-                    index.HTML
-                    script.js
-                    styles.css  
+                    - ronSwanson (folder)
+                        - assets (folder)
+                        - index.HTML
+                        - script.js
+                        - styles.css
+                    - NYT
+                        - assets (folder)
+                        - index.HTML
+                        - script.js
+                        - styles.css  
         -projects
-            - staticLayout
+            - staticLayout (folder) [wk I]
+            - APIprojectOne (folder) [wk IV]
+            - APIprojectTwo (folder) [wk VI]
+            - portfolio (folder) [wk III]

@@ -4,10 +4,12 @@ wd<CURRENT CLASS>
         - 0-day01 (prework)
         - 1-jsFundamentals (module work)
         - inClass_Notes (REPO)
-            - HTML Lesson
-                - assets
+            - HTML Lesson (folder)
+                - assets (folder)
                 index.html
                 styles.css
-            - Challenges
+            - Challenges (folder)
                 01.longestName.js
                 02.types.js
+        - projects (folder)
+            - staticLayout (folder)

@@ -9,7 +9,8 @@ wd<CURRENT CLASS>
             - Notes
                 - arrays.js
                 - objects.js
-        - projects  
+        - projects
+            - portfolio (folder)  
 
 
 RESOURCES:
