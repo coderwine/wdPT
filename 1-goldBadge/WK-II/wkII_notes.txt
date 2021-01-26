@@ -1,5 +1,14 @@
 Folder/File Structure for Students WK II
 
+DUE:
+    - TUES:
+        - Terminal Dungeon
+        - WK II Pt. 1 Videos
+    - THURS:
+        - WK II Pt. 2 Videos
+    - SAT: na
+*********************************************
+
 wd<CURRENT CLASS>
         - 0-day01 (prework)
         - 1-jsFundamentals (module work)
@@ -19,6 +28,11 @@ wd<CURRENT CLASS>
                 - arrowFunctions.js
         - projects (folder)
 
+ASSIGNMENTS:
+    - TUES:
+    - THURS:  
+        - WK III Videos
+    - SAT:  na     
 
 RESOURCES:
 02.01 -----------

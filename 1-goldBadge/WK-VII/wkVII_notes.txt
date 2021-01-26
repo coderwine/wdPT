@@ -1,9 +1,8 @@
-Folder/File Structure for Students WK IV
+Folder/File Structure for Students WK VII
 
 DUE:
-    - TUES:
-        - Repl 1.1 & 1.2
-    - THURS: na
+    - TUES: na
+    - THURS: na 
     - SAT: na
 *********************************************
 
@@ -13,17 +12,13 @@ wd<CURRENT CLASS>
         - inClass_Notes (REPO)
             - HTML Lesson
             - Challenges
-                - 07.preWhiteboard.js
             - Notes
         - projects 
-            - APIprojectOne (folder) 
 
 ASSIGNMENTS:
     - TUES:
-        - API Project 1
-    - THURS:  
-        - WHITEBOARDING
-        - Repl 2.1 & 2.2
-    - SAT:  na  
+    - THURS: 
+        - Repl 4.1 & 4.2
+    - SAT: na
 
 RESOURCES:

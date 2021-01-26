@@ -1,0 +1,38 @@
+Folder/File Structure for Students WK IV
+
+DUE:
+    - TUES: na
+    - THURS: Repl 2.1 & 2.2
+    - SAT: na
+*********************************************
+
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+            - Challenges
+            - Notes
+                - DOM
+                    - ronSwanson (folder)
+                        - assets (folder)
+                        - index.HTML
+                        - script.js
+                        - styles.css
+        - projects 
+            - APIprojectOne (folder) 
+
+ASSIGNMENTS:
+    - TUES:
+    - THURS:  
+        - Repl 3.1 & 3.2
+    - SAT:  na  
+
+RESOURCES:
+CSS - transform & translate:
+    - https://www.w3schools.com/cssref/css3_pr_transform.asp
+    - https://www.w3schools.com/cssref/playit.asp?filename=playcss_transform_translate
+
+
+Zach Maynard: 
+Ron Swanson Github link: https://github.com/maynardz/ron_swanson_quote_generator_final

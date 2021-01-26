@@ -1,0 +1,33 @@
+Folder/File Structure for Students WK VI
+
+DUE:
+    - TUES: na
+    - THURS: na
+    - SAT: 
+        - API Proj 1 (9am)
+        - Repl 3.1 & 3.2 (noon) 
+*********************************************
+
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+            - Challenges
+            - Notes- DOM
+                    - NYT (folder)
+                        - assets (folder)
+                        - index.HTML
+                        - script.js
+                        - styles.css
+        - projects 
+            - APIprojecttwo (folder)
+
+ASSIGNMENTS:
+    - TUES:
+    - THURS: 
+        - API Project 2
+    - SAT: 
+        - NYT WALKTHROUGH
+
+RESOURCES:

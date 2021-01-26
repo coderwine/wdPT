@@ -1,5 +1,16 @@
 Folder/File Structure for Students
 
+DUE:
+    - MON:
+        - Prework
+    - TUES:
+        - Smiley Face Modules
+    - THURS:
+        - WK I Videos
+        - CSS Creature
+    - SAT: na
+*********************************************
+
 wd<CURRENT CLASS>
         - 0-day01 (prework)
         - 1-jsFundamentals (module work)
@@ -13,3 +24,15 @@ wd<CURRENT CLASS>
                 02.types.js
         - projects (folder)
             - staticLayout (folder)
+
+ASSIGNMENTS:
+    - MON:
+        - Smiley Face Modules
+        - CSS Creature
+        - WK I Videos 
+    - TUES: 
+        - Terminal Dungeon
+        - Static Layout
+    - THURS:  
+        - WK II Videos
+    - SAT:  na            

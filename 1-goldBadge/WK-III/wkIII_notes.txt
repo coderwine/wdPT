@@ -1,5 +1,14 @@
 Folder/File Structure for Students WK III
 
+DUE:
+    - TUES:
+        - Static Layout
+    - THURS: 
+        - WK III Pt. 1 Videos
+    - SAT:
+        - WK III Pt. 2 Videos
+*********************************************
+
 wd<CURRENT CLASS>
         - 0-day01 (prework)
         - 1-jsFundamentals (module work)
@@ -12,6 +21,14 @@ wd<CURRENT CLASS>
         - projects
             - portfolio (folder)  
 
+ASSIGNMENTS:
+    - TUES:
+        - Repls 1.1 & 1.2
+    - THURS:  
+        - Portfolio
+        - Presentation
+    - SAT:
+        - WK IV Videos  
 
 RESOURCES:
     Arrays:

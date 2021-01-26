@@ -1,0 +1,21 @@
+Folder/File Structure for Students WK VIII
+
+DUE:
+    - TUES: na
+    - THURS: na
+    - SAT: 
+        - Portfolio
+        - API Project 2
+        - PRESENTATION
+*********************************************
+
+wd<CURRENT CLASS>
+        - 0-day01 (prework)
+        - 1-jsFundamentals (module work)
+        - inClass_Notes (REPO)
+            - HTML Lesson
+            - Challenges
+            - Notes
+        - projects 
+
+RESOURCES:

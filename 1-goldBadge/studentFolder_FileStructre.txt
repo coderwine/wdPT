@@ -1,41 +1,42 @@
-wd<CURRENT CLASS>
-        - 0-day01 (prework)
-        - 1-jsFundamentals (module work)
-        - inClass_Notes (REPO)
-            - HTML Lesson (folder)
-                - assets (folder)
-                index.html
-                styles.css
-            - Challenges (folder)
-                - 01.longestName.js
-                - 02.types.js
-                - 03.fizzBuzz.js
-                - 04.forLoops.js
-                - 05.forOfLoops.js
-                - 06.forInLoops.js
-                - 07.preWhiteboard.js
-            - Notes (folder)
-                - literals.js
-                - hoisting.js
-                - scope.js
-                - functions.js
-                - parameters.js
-                - arrowFunctions.js
-                - arrays.js
-                - objects.js
-                - DOM (folder)
-                    - ronSwanson (folder)
-                        - assets (folder)
-                        - index.HTML
-                        - script.js
-                        - styles.css
-                    - NYT
-                        - assets (folder)
-                        - index.HTML
-                        - script.js
-                        - styles.css  
-        -projects
-            - staticLayout (folder) [wk I]
-            - APIprojectOne (folder) [wk IV]
-            - APIprojectTwo (folder) [wk VI]
-            - portfolio (folder) [wk III]
+ElevenFiftyProjects (folder)
+    - HTMLCSSPreWork (whitebadge)
+    - wd<CURRENT CLASS>
+            - 1-jsFundamentals (MODULE WORK)
+            - inClass_Notes (REPO)
+                - HTML Lesson (folder)
+                    - assets (folder)
+                    - index.html
+                    - styles.css
+                - Challenges (folder)
+                    - 01.longestName.js
+                    - 02.types.js
+                    - 03.fizzBuzz.js
+                    - 04.forLoops.js
+                    - 05.forOfLoops.js
+                    - 06.forInLoops.js
+                    - 07.preWhiteboard.js
+                - Notes (folder)
+                    - literals.js
+                    - hoisting.js
+                    - scope.js
+                    - functions.js
+                    - parameters.js
+                    - arrowFunctions.js
+                    - arrays.js
+                    - objects.js
+                    - DOM (folder)
+                        - ronSwanson (folder)
+                            - assets (folder)
+                            - index.HTML
+                            - script.js
+                            - styles.css
+                        - NYT
+                            - assets (folder)
+                            - index.HTML
+                            - script.js
+                            - styles.css  
+            -projects
+                - staticLayout (folder) [wk I]
+                - APIprojectOne (folder) [wk IV]
+                - APIprojectTwo (folder) [wk VI]
+                - portfolio (folder) [wk III]

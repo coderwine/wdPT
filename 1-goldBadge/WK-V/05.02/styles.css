@@ -7,32 +7,19 @@ html, body {
 
 html {
     font-size: 14px;
-    /* overflow: scroll; */
 }
 
 body {
     background-color: tan;
 }
 
-/* FONTS */
-
-@font-face {
-    font-family: pinewood;
-    src: url('./assets/PINEWOOD.TTF');
-}
-
-@font-face {
-    font-family: billionDreams;
-    src: url('./assets/BillionDreams_PERSONAL.ttf');
-}
-
-/* LOGO */
-
+/* LOGO  */
 #ronLogo {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    /* With transform, we are able to do different things like skew and rotate.  In this case, we are changing a positioning.*/
     height: 400px;
     width: auto;
 }
@@ -49,12 +36,18 @@ body {
     margin: 0;
 }
 
-.reset {
-    background-color: #3a2718;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    padding: 15px 32px;
-    font-size: 1.2rem;
-    /* text-align: center; */
+/* FONTS */
+@font-face {
+    font-family: pinewood;
+    src: url('./assets/PINEWOOD.TTF');
 }
+
+@font-face {
+    font-family: billionDreams;
+    src: url('./assets/BillionDreams_PERSONAL.ttf');
+}
+
+/* 
+! ADD style fonts within JS
+within quoteBy & quote
+*/
