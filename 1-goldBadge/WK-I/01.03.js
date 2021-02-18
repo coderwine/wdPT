@@ -166,12 +166,12 @@ if(value === 'string') {
 
     GITHUB
         - signup/signin to github
-        - create a new repository called 'wd<CURRENT CLASS#>-Notes
+        - create a new repository called 'wd<CURRENT CLASS#>'-Notes
 */
 
 /*
     In CMD/Powershell:
-        git init
+        git init  <---- To start a repo 
         git status
         git add .
         git commit -m "message"
@@ -183,3 +183,5 @@ if(value === 'string') {
         git remote add origin //* PASTE REPO HERE
         git push origin master OR git push origin main
 */
+
+//! Assignment:  WK II Videos

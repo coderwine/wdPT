@@ -3,6 +3,7 @@
 ! OVERVIEW FOR TODAY
 * *******************
 
+! RECORD!!!
     - Staff Introductions
     - Student Introductions
         - Name?
@@ -34,6 +35,7 @@
         - Modules
         - Assignments
     - Calendar Overview (subject to change, if needed)
+        - Expecting to meet with instructors/LAs at least once a week.
     - Walkthrough of other resources
         - Learning Gym: set in Canvas & Slack *suggest bookmarking
         - Calendly

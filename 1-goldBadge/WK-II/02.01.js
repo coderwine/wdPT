@@ -158,13 +158,13 @@ for(i = 0; i < alphabet.length; i++){
 */
 //          value
 let arrName = ['one', 'two', 'three']
-//Index:     0      1       2         
+//Index:        0      1       2         
 
 
 /*
 * BRONZE
 
-- Using a for of loop, console.log the name of each pie from the pies array using string interpolation.
+- Using a FOR OF loop, console.log the name of each pie from the pies array using string interpolation.
 
 */
 
