@@ -6,7 +6,7 @@
 */
 
 const request = async () => {
-    const response = await fetch('https://swapi.co/api/people/1');
+    const response = await fetch('https://swapi.dev/api/people/1');
     const json = await response.json()
     console.log(json)
 

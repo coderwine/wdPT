@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: auto 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+header {
+    height: 10vh;
+}
+
+#display {
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    width: 500px;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+#display img {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 200px;
+}
+
+#cardInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#moreInfo{
+    height: 20px;
+    width: 40px;
+    color: white;
+    border-radius: 5px;
+    background-color: black;
+}
+
+#userBtn {
+    margin: 25px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 18pt;
+    color: whitesmoke;
+    background-color: lightslategray;
+}
+
+#moreInfo {
+    flex-direction: column;
+}
+
+.add_info {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: column;
+    height: auto;
+    width: 35vw;
+    /* border: 1px solid black; */
+}
+
+footer {
+    margin: 0;
+    /* position: fixed; */
+    bottom: 0;
+    height: 5vh;
+    width: 100vw;
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+footer a {
+    color: black;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: red;
+}
